@@ -1,0 +1,16 @@
+python_code_editor_web/
+│
+├── README.md
+├── requirements.txt
+├── app.py
+├── templates/
+│   └── index.html
+├── static/
+│   ├── css/
+│   │   └── styles.css
+│   └── js/
+│       └── script.js
+└── core/
+    ├── __init__.py
+    ├── llm_integration.py
+    └── chatbot.py
